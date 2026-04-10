@@ -1,5 +1,25 @@
 # SWIFT Poultry Tracker
 
-## Project Overview
+Welcome to the SWIFT Poultry Tracker application! This application is designed to help manage poultry farms effectively and efficiently.
 
-The SWIFT Poultry Tracker application is designed to facilitate effective poultry management through an intuitive user interface.
+## Features
+- Track poultry inventory
+- Manage feeding schedules
+- Monitor health and vaccination
+
+## Installation
+To install the project, run:
+
+```bash
+npm install
+```
+
+## Usage
+To start the application, run:
+
+```bash
+npm start
+```
+
+## Contributing
+Feel free to submit pull requests as you find improvements or bugs.

@@ -1,14 +1,14 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import './App.css';
 
 function App() {
   return (
-    <div>
-      <h1>Hello, Poultry Farmers!</h1>
-      <p>Welcome to the Poultry Management Application.</p>
+    <div className="App">
+      <header className="App-header">
+        <h1>Welcome to SWIFT Poultry Tracker</h1>
+      </header>
     </div>
   );
 }
 
-const rootElement = document.getElementById('root');
-ReactDOM.render(<App />, rootElement);
+export default App;
